@@ -52,6 +52,13 @@
                 android:title="@string/display_rotation_title"
                 android:fragment="com.android.settings.cyanogenmod.DisplayRotation"/>
 
+        <!-- Memory Bar in recent -->
+        <SwitchPreference
+               android:key="systemui_recents_mem_display"
+               android:title="@string/systemui_recents_mem_display_title"
+               android:summary="@string/systemui_recents_mem_display_summary"
+               android:defaultValue="false" />
+
         <!-- Doze // Ambient display -->
         <SwitchPreference
                 android:key="doze"
