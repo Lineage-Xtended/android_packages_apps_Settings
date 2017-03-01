@@ -936,7 +936,7 @@
     <string name="kill_app_longpress_back_summary">Kill the foreground app by long-pressing the back button</string>
 
     <!-- Show/Hide Search Bar -->
-    <string name="recents_show_searchbar">Show search bar in recents menu</string>
+    <string name="recents_show_searchbar">Show search bar</string>
     <string name="keywords_recents_show_searchbar">recent recents disable enable show hide search bar searchbar</string>
 
     <!-- Voice Wakeup -->
@@ -1287,6 +1287,6 @@
 
     <!-- Recents Membar -->
     <string name="systemui_recents_mem_display_title">Show Memory Bar</string>
-    <string name="systemui_recents_mem_display_summary">Enable Disable Ram bar in recent app view</string>
+    <string name="systemui_recents_mem_display_summary">Enable Ram bar in recent app view</string>
 
 </resources>
